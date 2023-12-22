@@ -5,7 +5,7 @@ Real-time visual analysis using OpenCV.
 Gesture and object recognition for sound triggers.
 Seamless wireless communication for remote sound control.
 # Getting Started
-Clone the repository: git clone https://github.com/your-username/Wireless-Sound-Control-using-OpenCV.git
+Clone the repository: git clone https://github.com/Maverik10/Wireless-Sound-Control.git
 Install dependencies: pip install -r requirements.txt
 Run the main script: python main.py
 # Usage
