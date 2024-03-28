@@ -4,7 +4,7 @@ This project utilizes computer vision techniques to control the system's volume 
 # Installation
 #   Clone the repository:
 
-git clone https://github.com/your-username/hand-gesture-volume-control.git
+git clone https://github.com/Maverik10/hand-gesture-volume-control.git
 # Install the required dependencies:
 
 pip install -r requirements.txt
