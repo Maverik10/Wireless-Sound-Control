@@ -5,6 +5,7 @@ This project utilizes computer vision techniques to control the system's volume 
 #   Clone the repository:
 
 git clone https://github.com/Maverik10/Wireless-Sound-Control-using-OpenCV-main.git
+
 # Install the required dependencies:
 
 pip install -r requirements.txt
