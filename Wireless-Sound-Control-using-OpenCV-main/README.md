@@ -22,7 +22,7 @@ python hand_gesture_volume_control.py
 3. Press 'q' to exit the program.
 
 # Demo
-Include a link to a demo video or GIF showcasing the project in action.
+Demo Link - https://drive.google.com/file/d/1gl8pnnQFb6zXISpNXVWCoUFReADXRN8k/view?usp=sharing
 
 # Acknowledgments
 This project is inspired by [insert sources or inspirations here].
