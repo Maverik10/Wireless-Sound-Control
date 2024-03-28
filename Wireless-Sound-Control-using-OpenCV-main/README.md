@@ -25,7 +25,6 @@ python hand_gesture_volume_control.py
 Demo Link - https://drive.google.com/file/d/1gl8pnnQFb6zXISpNXVWCoUFReADXRN8k/view?usp=sharing
 
 # Acknowledgments
-This project is inspired by [insert sources or inspirations here].
 Thanks to the developers of MediaPipe and OpenCV for their contributions to computer vision technology.
 # License
 This project is licensed under the MIT License.
